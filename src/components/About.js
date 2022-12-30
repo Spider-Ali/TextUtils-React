@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div>
         <h1>About Us</h1>
-        <p>This page is about us page</p>
+        <p>This page is about us page !</p>
     </div>
   );
 }
